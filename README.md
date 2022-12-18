@@ -52,6 +52,7 @@ from tensorflow import keras
 Include screenshot of the dataset
 
 ## OUTPUT
+<matplotlib.axes._Axessubplot at 0*7fcaedcc4ed0>
 
 ### Training Loss Vs Iteration Plot
 
