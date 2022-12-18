@@ -44,7 +44,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 
-Include your code here
+import numpy as np
+from tensorflow import keras
 
 ## Dataset Information
 
